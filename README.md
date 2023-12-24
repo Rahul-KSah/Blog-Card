@@ -36,8 +36,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Links &#11088;
 <ul>
- <li>Live Site URL:  <a href="https://0xabdul.github.io/Blog-Preview-Card/">Click Here </a></li><br> 
-  <li>Preview site soution : <a href="https://0xabdul.github.io/Blog-Preview-Card/"</a>Click Here</li>
+ <li>Live Site URL:  <a href="https://blog-cardrahul.netlify.app">Click Here </a></li><br> 
+  <li>Preview site soution : <a href="https://blog-cardrahul.netlify.app"</a>Click Here</li>
 </ul><br>
 
 ## Acknowledgments 🚀 <br>
